@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.80017182499995,
+                    42.465349451000066
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "ExternalData": "https://dash.digitalwaterlab.org:3000/d-solo/fpZfPvTSk/interactive-usgs-huron-sites?orgId=1&kiosk=tv&var-site_name=04172000&panelId=2",
+                "Latitude": 42.46535761140003,
+                "Longitude": -83.80017648138163,
+                "Site_Name": "Huron River near Hamburg",
+                "USGS_ID": "04172000",
+                "Last_Reading": "323 cfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.89821445099994,
+                    42.30011332200007
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "ExternalData": "https://dash.digitalwaterlab.org:3000/d-solo/fpZfPvTSk/interactive-usgs-huron-sites?orgId=1&kiosk=tv&var-site_name=04173500&panelId=2",
+                "Latitude": 42.30012144836664,
+                "Longitude": -83.89821912192707,
+                "Site_Name": "Mill Creek near Dexter",
+                "USGS_ID": "04173500",
+                "Last_Reading": "88.5 cfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.74503112099995,
+                    42.29046987800007
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "ExternalData": "https://dash.digitalwaterlab.org:3000/d-solo/fpZfPvTSk/interactive-usgs-huron-sites?orgId=1&kiosk=tv&var-site_name=04174490&panelId=2",
+                "Latitude": 42.29047801049578,
+                "Longitude": -83.74503574424969,
+                "Site_Name": "Allen Creek",
+                "USGS_ID": "04174490",
+                "Last_Reading": "2.3 cfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.73378602999998,
+                    42.28671224800007
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "ExternalData": "https://dash.digitalwaterlab.org:3000/d-solo/fpZfPvTSk/interactive-usgs-huron-sites?orgId=1&kiosk=tv&var-site_name=04174500&panelId=2",
+                "Latitude": 42.2867203804069,
+                "Longitude": -83.73379064946596,
+                "Site_Name": "Huron River at Ann Arbor",
+                "USGS_ID": "04174500",
+                "Last_Reading": "554 cfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.68847173499995,
+                    42.26502859200008
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "ExternalData": "https://dash.digitalwaterlab.org:3000/d-solo/fpZfPvTSk/interactive-usgs-huron-sites?orgId=1&kiosk=tv&var-site_name=04174518&panelId=2",
+                "Latitude": 42.26503672289123,
+                "Longitude": -83.68847633861546,
+                "Site_Name": "Malletts Creek",
+                "USGS_ID": "04174518",
+                "Last_Reading": "5.13 cfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.84068611499998,
+                    42.32354185100007
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "ExternalData": "https://dash.digitalwaterlab.org:3000/d-solo/fpZfPvTSk/interactive-usgs-huron-sites?orgId=1&kiosk=tv&var-site_name=04174040&panelId=3",
+                "Latitude": 42.32354185100007,
+                "Longitude": -83.84068611499998,
+                "Site_Name": "Huron River at Zeeb Rd",
+                "USGS_ID": "04174040",
+                "Last_Reading": "7.64 ft"
+            }
+        }
+    ]
+}
