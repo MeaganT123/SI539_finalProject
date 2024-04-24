@@ -1,0 +1,51 @@
+.skip-link{
+  position: relative;
+  top: -40px; 
+  height: 25px;
+  background-color: #121212;
+  color: white;
+  padding: 20px 20px;
+  margin: 10px;
+  z-index: 20; /* Higher than the AppBar */
+  transition: top 1s;
+}
+
+.skip-link:focus{
+  top: 20px;
+}
+
+.skip-link:visited{
+  color: white;
+}
+/* have dive be fixed so that it is ontop of the map. Otherwise it will slightly push the map down and users have to scroll down to see attributions */
+.appContainer {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.toolbar {
+  background-color: #121212;
+  display: flex;
+  align-items: center;
+}
+
+.logoLink {
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.logo {
+  height: 40px;
+}
+
+/* flex-grow of 1 ensures login log stays on right side */
+.title {
+  flex-grow: 1;
+  display: flex;
+  align-items: right;
+}
+
+  

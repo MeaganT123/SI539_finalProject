@@ -1,0 +1,39 @@
+
+.mapPage {
+    position: relative;
+  }
+  
+.timeseriesDrawerPaper {
+    height: 30%; 
+}
+
+.closeButton, .viewMoreButton {
+    position: absolute;
+    top: 10px;
+    width: 20%;
+    z-index: 10;
+}
+
+.closeButton {
+    left: 1%;
+}
+
+.viewMoreButton {
+    right: 0;
+}
+
+.mapElement {
+    width: 100vw;
+    height: 100vh
+}
+
+.searchBox {
+    position: relative;
+    top: 80px;
+    left: 10px;
+    width: 300px;
+}
+
+.searchBoxInput {
+    background-color: rgba(12, 12, 12, 0.5);
+}
